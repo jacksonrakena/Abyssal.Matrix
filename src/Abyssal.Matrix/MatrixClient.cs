@@ -2,7 +2,7 @@
 
 namespace Abyssal.Matrix
 {
-    public class Class1
+    public class MatrixClient
     {
     }
 }
