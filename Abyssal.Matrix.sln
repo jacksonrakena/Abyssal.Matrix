@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abyssal.Matrix", "src\Abyss
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abyssal.Matrix.Bot", "src\Abyssal.Matrix.Bot\Abyssal.Matrix.Bot.csproj", "{8171FBAD-AEC2-4F7F-88BF-0E5F6A7A012B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abyssal.Matrix.Bot.Test", "src\Abyssal.Matrix.Bot.Test\Abyssal.Matrix.Bot.Test.csproj", "{16117F1C-34E9-41BD-8F81-AAB00ECC265B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,9 +48,22 @@ Global
 		{8171FBAD-AEC2-4F7F-88BF-0E5F6A7A012B}.Release|x64.Build.0 = Release|Any CPU
 		{8171FBAD-AEC2-4F7F-88BF-0E5F6A7A012B}.Release|x86.ActiveCfg = Release|Any CPU
 		{8171FBAD-AEC2-4F7F-88BF-0E5F6A7A012B}.Release|x86.Build.0 = Release|Any CPU
+		{16117F1C-34E9-41BD-8F81-AAB00ECC265B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16117F1C-34E9-41BD-8F81-AAB00ECC265B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16117F1C-34E9-41BD-8F81-AAB00ECC265B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{16117F1C-34E9-41BD-8F81-AAB00ECC265B}.Debug|x64.Build.0 = Debug|Any CPU
+		{16117F1C-34E9-41BD-8F81-AAB00ECC265B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{16117F1C-34E9-41BD-8F81-AAB00ECC265B}.Debug|x86.Build.0 = Debug|Any CPU
+		{16117F1C-34E9-41BD-8F81-AAB00ECC265B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16117F1C-34E9-41BD-8F81-AAB00ECC265B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16117F1C-34E9-41BD-8F81-AAB00ECC265B}.Release|x64.ActiveCfg = Release|Any CPU
+		{16117F1C-34E9-41BD-8F81-AAB00ECC265B}.Release|x64.Build.0 = Release|Any CPU
+		{16117F1C-34E9-41BD-8F81-AAB00ECC265B}.Release|x86.ActiveCfg = Release|Any CPU
+		{16117F1C-34E9-41BD-8F81-AAB00ECC265B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3ABBEC0B-FDD3-4582-8745-968079FD98ED} = {55A6B757-43D8-45DD-A355-5EC625DCDDBD}
 		{8171FBAD-AEC2-4F7F-88BF-0E5F6A7A012B} = {55A6B757-43D8-45DD-A355-5EC625DCDDBD}
+		{16117F1C-34E9-41BD-8F81-AAB00ECC265B} = {55A6B757-43D8-45DD-A355-5EC625DCDDBD}
 	EndGlobalSection
 EndGlobal
